@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/hiKJS
+  RECOVERY_URL: https://oshi.at/Rpjg
 
 jobs:
   build:
